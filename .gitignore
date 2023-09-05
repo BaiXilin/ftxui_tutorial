@@ -1,0 +1,7 @@
+# Ignore CMake-generated files and build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+*.out
